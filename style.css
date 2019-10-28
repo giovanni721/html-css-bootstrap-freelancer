@@ -78,3 +78,23 @@
     margin-left: 25px;
     margin-bottom: 25px;
 }
+
+.aboutp{
+    color: white;
+    font-size: 20px;
+}
+
+ #lilcontainer{
+    width: 70%;
+    margin: auto;
+ }
+
+.button-download{
+    background-color: #1ABC9C;
+    color: white;
+    border-radius: 5px;
+    border: 2px solid white;
+    padding:20px 30px;
+    margin-right: 40%;
+    margin-bottom: 60px;
+}
